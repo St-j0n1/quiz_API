@@ -1,0 +1,320 @@
+{
+    "cursor": null,
+    "items": [
+        {
+            "Test Quiz 2": [
+                {
+                    "answers": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "correctAnswerIndex": "0",
+                    "question": "1a"
+                },
+                {
+                    "answers": [
+                        "e",
+                        "r",
+                        "t",
+                        "y"
+                    ],
+                    "correctAnswerIndex": "2",
+                    "question": "2b"
+                },
+                {
+                    "answers": [
+                        "g",
+                        "d",
+                        "s",
+                        "a"
+                    ],
+                    "correctAnswerIndex": "3",
+                    "question": "3c"
+                },
+                {
+                    "answers": [
+                        "s",
+                        "g",
+                        "d",
+                        "c "
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "4g"
+                },
+                {
+                    "answers": [
+                        "4",
+                        "2",
+                        "v",
+                        "s"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "g"
+                }
+            ],
+            "_created": 1704546637.831599,
+            "_data_type": "quiz",
+            "_is_deleted": false,
+            "_modified": 1704546637.831608,
+            "_self_link": "https://crudapi.co.uk/api/v1/quiz/b0874d64-a018-4153-b8cb-f5defe2087b4",
+            "_user": "3c108ef2-613d-4da8-b248-7659fdcce69d",
+            "_uuid": "b0874d64-a018-4153-b8cb-f5defe2087b4",
+            "category": "Mathematics"
+        },
+        {
+            "_created": 1704546539.49121,
+            "_data_type": "quiz",
+            "_is_deleted": false,
+            "_modified": 1704546539.49122,
+            "_self_link": "https://crudapi.co.uk/api/v1/quiz/6e618d1f-149f-4ddf-8cee-58a335ebb0b7",
+            "_user": "3c108ef2-613d-4da8-b248-7659fdcce69d",
+            "_uuid": "6e618d1f-149f-4ddf-8cee-58a335ebb0b7",
+            "category": "Mathematics",
+            "testquiz": [
+                {
+                    "answers": [
+                        "a",
+                        "ds",
+                        "ds",
+                        "s"
+                    ],
+                    "correctAnswerIndex": "0",
+                    "question": "1"
+                },
+                {
+                    "answers": [
+                        "ds",
+                        "ds",
+                        "ds",
+                        "dffg"
+                    ],
+                    "correctAnswerIndex": "3",
+                    "question": "2"
+                },
+                {
+                    "answers": [
+                        "g",
+                        "s",
+                        "d",
+                        "d"
+                    ],
+                    "correctAnswerIndex": "3",
+                    "question": "3"
+                }
+            ]
+        },
+        {
+            "_created": 1704544349.456184,
+            "_data_type": "quiz",
+            "_is_deleted": false,
+            "_modified": 1704544349.456192,
+            "_self_link": "https://crudapi.co.uk/api/v1/quiz/902b9d24-f31e-4f43-86d7-8bad20c9135c",
+            "_user": "3c108ef2-613d-4da8-b248-7659fdcce69d",
+            "_uuid": "902b9d24-f31e-4f43-86d7-8bad20c9135c",
+            "category": "Mathematics",
+            "quizName9": [
+                {
+                    "answers": [
+                        "David",
+                        "John",
+                        "George",
+                        "Pavel"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "What's the name of Georgian King"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "0",
+                    "question": "How many sides it has?"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "How many sides does a rectangle have?"
+                }
+            ]
+        },
+        {
+            "_created": 1704544337.702031,
+            "_data_type": "quiz",
+            "_is_deleted": false,
+            "_modified": 1704544337.702039,
+            "_self_link": "https://crudapi.co.uk/api/v1/quiz/b49badbd-37fe-4b10-ad0d-d3d0f40573a6",
+            "_user": "3c108ef2-613d-4da8-b248-7659fdcce69d",
+            "_uuid": "b49badbd-37fe-4b10-ad0d-d3d0f40573a6",
+            "category": "Geography",
+            "quizName6": [
+                {
+                    "answers": [
+                        "David",
+                        "John",
+                        "George",
+                        "Pavel"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "What's the name of Georgian King"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "0",
+                    "question": "How many sides it has?"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "How many sides does a rectangle have?"
+                }
+            ]
+        },
+        {
+            "_created": 1704544334.68736,
+            "_data_type": "quiz",
+            "_is_deleted": false,
+            "_modified": 1704544334.687368,
+            "_self_link": "https://crudapi.co.uk/api/v1/quiz/51291de3-0596-4fa6-a085-21be8adb2e59",
+            "_user": "3c108ef2-613d-4da8-b248-7659fdcce69d",
+            "_uuid": "51291de3-0596-4fa6-a085-21be8adb2e59",
+            "category": "Geography",
+            "quizName4": [
+                {
+                    "answers": [
+                        "David",
+                        "John",
+                        "George",
+                        "Pavel"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "What's the name of Georgian King"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "0",
+                    "question": "How many sides it has?"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "How many sides does a rectangle have?"
+                }
+            ]
+        },
+        {
+            "_created": 1704544328.295829,
+            "_data_type": "quiz",
+            "_is_deleted": false,
+            "_modified": 1704544328.29586,
+            "_self_link": "https://crudapi.co.uk/api/v1/quiz/299ab430-dcf6-4f96-8619-6e44e769b273",
+            "_user": "3c108ef2-613d-4da8-b248-7659fdcce69d",
+            "_uuid": "299ab430-dcf6-4f96-8619-6e44e769b273",
+            "category": "Geography",
+            "quizName3": [
+                {
+                    "answers": [
+                        "David",
+                        "John",
+                        "George",
+                        "Pavel"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "What's the name of Georgian King"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "0",
+                    "question": "How many sides it has?"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "How many sides does a rectangle have?"
+                }
+            ]
+        },
+        {
+            "_created": 1704544312.81095,
+            "_data_type": "quiz",
+            "_is_deleted": false,
+            "_modified": 1704544312.810959,
+            "_self_link": "https://crudapi.co.uk/api/v1/quiz/ff4e3c2b-df8b-4d11-ade3-882d0d57d2ca",
+            "_user": "3c108ef2-613d-4da8-b248-7659fdcce69d",
+            "_uuid": "ff4e3c2b-df8b-4d11-ade3-882d0d57d2ca",
+            "category": "History",
+            "quizName3": [
+                {
+                    "answers": [
+                        "David",
+                        "John",
+                        "George",
+                        "Pavel"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "What's the name of Georgian King"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "0",
+                    "question": "How many sides it has?"
+                },
+                {
+                    "answers": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswerIndex": "1",
+                    "question": "How many sides does a rectangle have?"
+                }
+            ]
+        }
+    ],
+    "next_page": null
+}

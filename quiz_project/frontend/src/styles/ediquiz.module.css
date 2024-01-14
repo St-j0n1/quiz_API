@@ -1,0 +1,28 @@
+nav {
+  height: 5vh;
+}
+
+.f30 {
+  font-size: 30px;
+  color: #4f356e;
+  text-decoration: none;
+}
+
+.f200 {
+  font-family: Inter;
+  font-weight: 200;
+  padding-left: 30px;
+}
+
+
+.createquiz {
+    display: flex;
+    height: 90vh;
+    margin-top: 30px;
+    font-family: Inter;
+    font-weight: 200;
+  }
+
+body {
+    color: black;
+}

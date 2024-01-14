@@ -1,0 +1,87 @@
+.Hsettings {
+  display: flex;
+  flex-direction: column;
+  background-color: #4F356E;
+  width: 20%;
+  position: relative;
+}
+
+body {
+  color: black;
+  text-decoration: none;
+  margin-bottom: 100px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.Hfont {
+  color: white;
+  text-decoration: none;
+  margin-bottom: 100px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.Hbutton {
+  width: 60px;
+  right: 0;
+  background-color: white;
+  text-decoration: none;
+  border: transparent;
+  cursor: pointer;
+}
+
+.navigation > * {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.dflex {
+  display: flex;
+}
+.dis > * {
+  display: flex;
+  width: 400px;
+  height: 200px;
+  background-color: #d9d9d9;
+  margin-top: 50px;
+  margin-left: 60px;
+}
+
+
+.quiz {
+  border: 1px solid  #4F356E;  
+  width: 300px;
+  height: 300px;
+  background-color: #D9D9D9;
+}
+
+.dcolumn {
+    flex-direction: column;
+}
+
+.dgrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+
+.overlay {
+  content: '';
+  position: absolute;
+  width: 30%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #D9D9D9;
+  z-index: 1;
+}
+
+.zindex {
+  z-index: 2;
+}
