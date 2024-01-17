@@ -7,7 +7,7 @@ class Course(models.Model):
     is_active = models.BooleanField(default=True)
 
     def __str__(self):
-        return f'{self.title}'
+        return f'{self.id} {self.title}'
 
 
 class CustomUser(AbstractUser): #
@@ -30,6 +30,6 @@ class CustomUser(AbstractUser): #
 
     def __str__(self):
         if self.course:
-            return f'{self.full_name} - {self.course.title}'
+            return f' ID:{self.id}  {self.full_name} - {self.course.title}'
         else:
             return f'{self.full_name} - No Course'
