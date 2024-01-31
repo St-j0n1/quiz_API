@@ -1,0 +1,39 @@
+.Hsettings {
+  display: flex;
+  flex-direction: column;
+}
+
+.Hfont {
+  color: black;
+  text-decoration: none;
+  margin-bottom: 100px;
+}
+
+.Hbutton {
+  width: 60px;
+  position: fixed;
+  right: 0;
+  background-color: white;
+  text-decoration: none;
+  border: transparent;
+  cursor: pointer;
+}
+
+.navigation > * {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.dflex {
+  display: flex;
+}
+.dis > * {
+  display: flex;
+  width: 400px;
+  height: 200px;
+  background-color: #d9d9d9;
+  margin-top: 50px;
+  margin-left: 60px;
+}
+

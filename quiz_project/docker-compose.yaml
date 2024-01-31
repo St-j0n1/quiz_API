@@ -1,0 +1,38 @@
+version: '3.9'
+
+services:
+  backend:
+    volumes:
+      - static:/static
+    env_file:
+      - .env
+    build:
+      context: ./backend/djangoProject
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+    volumes:
+      - frontend:/app/build
+    ports:
+      - "3000:3000"
+
+  nginx:
+    build:
+      context: ./nginx
+    volumes:
+      - static:/static
+      - frontend:/var/www/frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+      - frontend
+
+volumes:
+  static:
+  frontend:
+
+
